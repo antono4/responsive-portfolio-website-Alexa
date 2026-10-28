@@ -1,2 +1,26 @@
-Last updated: 2026-10-28 14:52:06 WIB
-Last updated: 2026-10-28 15:54:58 WIB
+# responsive-portfolio-website-Alexa
+
+
+
+## 📋 Overview
+
+This repository contains **26 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-10-28 17:51:07 WIB*
